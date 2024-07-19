@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I"m Hain 👋</h1>
+<h1 align="center">Hello, I'm Hain 👋</h1>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=hainnotlazy&label=Profile%20views&color=5271ff&style=for-the-badge" alt="hainnotlazy"/> 
